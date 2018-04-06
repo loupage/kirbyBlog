@@ -1,0 +1,19 @@
+Title: Testing Git Push!
+
+----
+
+Description: This could be an awesome text post.
+
+----
+
+Date: 2018-04-05
+
+----
+
+Tags: news,cool stuff
+
+----
+
+Text: 
+
+This is a test push post.
