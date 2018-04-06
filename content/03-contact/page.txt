@@ -1,0 +1,15 @@
+Title:
+
+Contact
+
+----
+
+Description:
+
+This could be an awesome contact page.
+
+----
+
+Text:
+
+<script type="text/javascript" src="https://form.jotform.com/jsform/50926615892969"></script>

@@ -1,0 +1,13 @@
+Title: loupage.com
+
+----
+
+Author: Lou Page
+
+----
+
+Description: Ideas on leadership, productivity, and tech.
+
+----
+
+Info: © 2012-(date: Year) (link: http://loupage.com text: Lou Page) | (link: feed text: RSS Feed)

@@ -1,0 +1,125 @@
+Title:
+
+Base Elements for Styling
+
+----
+
+Description:
+
+This could be an awesome text post.
+
+----
+
+Date:
+
+3/30/2018
+
+----
+
+Tags:
+
+news,cool stuff,nature
+
+----
+
+Text:
+
+Whenever I create a theme, or even convert one like I did with this site, I like to test all the elements. This is a *kitchen sink* type of post with all the common html elements. 
+
+This type of post should give you a good idea of what the all the different font styles look like in a theme.
+
+Here are the styles for this site.
+
+---
+
+## A Paragraph
+
+This is a paragraph of text which has all the most common html elements in it such as the **strong element** which is used to give text strong importance. You could of course use the <b>b element</b> which represents a span of text stylistically different from normal text, without conveying any special importance or relevance. The <mark>mark element</mark> which represents highlighted text, i.e., a run of text marked for reference purposes. *The HTML em element marks text that has stress emphasis.* You could of course use the <i>i element</i> which represents a range of text that is set off from the normal text for some reason, for example, technical terms, foreign language phrases, or fictional character thoughts. <i>It is typically displayed in italic type</i>. 
+         
+---
+
+##Heading 2
+
+### Heading 3
+
+#### Heading 4
+
+##### Heading 5
+
+###### Heading 6
+
+---
+
+## Unordered list
+-   Lorem ipsum dolor
+-   Lorem ipsum dolor
+  -   Lorem ipsum dolor
+-   Lorem ipsum dolor
+
+---
+
+## Ordered list
+1.  Lorem ipsum dolor
+2.  Lorem ipsum dolor
+3.  Lorem ipsum dolor
+
+---
+
+## Description list
+
+A super nice definition term
+: Some delicious description to that super awesome thing above.
+
+A super nice definition term
+: Some delicious description to that super awesome thing above.
+
+A super nice definition term
+: Some delicious description to that super awesome thing above.
+
+---
+
+## Blockquote
+
+>Design is the fundamental soul of a human-made creation that ends up expressing itself in successive outer layers of the product or service.
+
+---
+
+## Simple table
+
+| Lorem ipsum           | Lorem ipsum           |
+| :-------------------- | --------------------: |
+| magnis dis parturient | magnis dis parturient |
+| magnis dis parturient | magnis dis parturient |
+| magnis dis parturient | magnis dis parturient |
+
+---
+
+## Button
+
+(link: # text: Some button class: button)
+
+---
+
+##Code block
+
+    article h1 {
+      font-size: 3em;
+      line-height: 1.7em;
+      margin: 10px 0;
+    }
+
+    header h1 a { 
+      display: block; 
+      width: 300px; 
+      height: 80px; 
+    }
+
+
+## Sample Vimeo Embed
+
+(vimeo: http://vimeo.com/29950141)
+
+Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+
+Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.
+(image: photo.jpg caption: Lorem ipsum dolor sit amet)

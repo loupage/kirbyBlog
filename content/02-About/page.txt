@@ -1,0 +1,22 @@
+Title:
+
+About
+
+----
+
+Description:
+
+Typography overview of Baseblog.
+
+----
+
+Text:
+
+## About
+<img style="max-width:25%; float:left; margin-right:15px;" src="/assets/avatars/lou-page-profile.png" alt = "Lou Page" >
+Hi, I’m Lou Page. This site is where I share ideas, both mine and those I come across around the web.
+
+I’m interested in all thing tech. I’m at home on both Macs and PC’s and enjoy learning new things about both platforms. I hope you like what you find here and comments are always welcome.
+
+You can contact me directly using <a href="/contact">this form</a>. You can also connect with me on <a href="http://facebook.com/loupage/">Facebook</a>, <a href="http://twitter.com/loupage">Twitter</a>, and <a href="http://pinterest.com/loupage111">Pinterest</a>.
+         
