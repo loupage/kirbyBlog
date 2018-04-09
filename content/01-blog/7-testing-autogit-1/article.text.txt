@@ -2,7 +2,7 @@ Articlemeta:
 
 ----
 
-Title: Testing Autogit Publishing
+Title: Final Test Autogit Publishing
 
 ----
 
