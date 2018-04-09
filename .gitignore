@@ -19,10 +19,10 @@ Icon
 
 # Kirby accounts
 # ---------------
-
+/site/config/config.php
 /site/accounts/*
 !/site/accounts/index.html
-/site/config/*
+
 
 # Avatars
 # ---------------
