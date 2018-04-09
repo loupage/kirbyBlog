@@ -1,26 +1,26 @@
 Articlemeta: 
 
-----
+---- 
 
-Title: Final Autogit Publishing
+Title: Final Autogit Example by me
 
-----
+---- 
 
 Date: 2018-04-09
 
-----
+---- 
 
 Description: test post
 
-----
+---- 
 
 Tags: AutoGit
 
-----
+---- 
 
 Articlecontent: 
 
-----
+---- 
 
 Text: This is test content
 
