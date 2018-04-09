@@ -2,11 +2,8 @@ Articlemeta:
 
 ---- 
 
-<<<<<<< HEAD
-Title: Final Test Autogit Publishing
-=======
 Title: Final Autogit
->>>>>>> 6bbbad8dcc35159c7cb9013b9dc061fe2476d328
+
 
 ---- 
 
