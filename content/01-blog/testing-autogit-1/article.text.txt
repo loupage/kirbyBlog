@@ -10,11 +10,11 @@ Date:
 
 ----
 
-Description: 
+Description: test post
 
 ----
 
-Tags: 
+Tags: AutoGit
 
 ----
 
@@ -22,4 +22,4 @@ Articlecontent:
 
 ----
 
-Text: 
+Text: This is test content
