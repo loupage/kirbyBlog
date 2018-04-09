@@ -1,0 +1,25 @@
+Articlemeta: 
+
+----
+
+Title: Testing Autogit @1
+
+----
+
+Date: 
+
+----
+
+Description: 
+
+----
+
+Tags: 
+
+----
+
+Articlecontent: 
+
+----
+
+Text: 
