@@ -2,7 +2,7 @@ Articlemeta:
 
 ---- 
 
-Title: Final Autogit Example by Lou
+Title: Final Autogit
 
 ---- 
 
