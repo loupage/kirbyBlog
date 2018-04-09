@@ -19,7 +19,7 @@ Icon
 
 # Kirby accounts
 # ---------------
-/site/config/config.php
+/site/config/*
 /site/accounts/*
 !/site/accounts/index.html
 
