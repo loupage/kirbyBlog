@@ -3,6 +3,7 @@ Articlemeta:
 ---- 
 
 Title: Final Autogit Example by Louis
+>>>>>>> origin/master
 
 ---- 
 
