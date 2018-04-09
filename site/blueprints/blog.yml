@@ -17,3 +17,6 @@ fields:
   title:
     label: Title
     type:  text
+  icon:
+    label: Icon
+    type: text

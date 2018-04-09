@@ -36,7 +36,7 @@ RewriteRule ^(kirby|panel\/app|panel\/tests)/(.*) index.php [L]
 # make panel links work
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^panel/(.*) admin-panel/index.php [L]
+RewriteRule ^panel/(.*) panel/index.php [L]
 
 # make site links work
 RewriteCond %{REQUEST_FILENAME} !-f
