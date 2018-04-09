@@ -2,8 +2,12 @@ Articlemeta:
 
 ---- 
 
+<<<<<<< HEAD
 Title: Final Autogit
 
+=======
+Title: Final Autogit Example by Lou
+>>>>>>> d09ea9bf353c94f70c3238c588a7bf227c51a1a8
 
 ---- 
 
