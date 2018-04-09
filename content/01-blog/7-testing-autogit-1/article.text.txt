@@ -2,7 +2,7 @@ Articlemeta:
 
 ----
 
-Title: Testing Autogit @1
+Title: Testing Autogit -1
 
 ----
 
@@ -22,4 +22,4 @@ Articlecontent:
 
 ----
 
-Text: This is test content for even more
+Text: This is test content
