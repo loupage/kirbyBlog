@@ -6,7 +6,7 @@ Another sample text post
 
 Description:
 
-This could be an awesome text post.
+This could be an awesome text post. As well.
 
 ----
 
