@@ -1,0 +1,5 @@
+Test post about bear
+
+This is a bear!
+
+/photo.jpeg
